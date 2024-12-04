@@ -51,7 +51,7 @@
 $host = "ruap-lv3-fb-server.mysql.database.azure.com";
 $user = "isfbphaxbt";
 $pwd = 'Binza123!';
-$db = "ruapdb";
+$db = "ruap-lv3-fb-server";
 
 // Connect to MySQL
 $conn = mysqli_connect($host, $user, $pwd);
